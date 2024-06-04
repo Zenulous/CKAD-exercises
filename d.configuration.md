@@ -15,7 +15,7 @@ kubectl create configmap config --from-literal=foo=lala --from-literal=foo2=lolo
 ```
 
 </p>
-</details>
+</details>huvbhu
 
 ### Display its values
 
