@@ -19,7 +19,7 @@ kubectl create configmap config --from-literal=foo=lala --from-literal=foo2=lolo
 
 ### Display its values
 
-<details><summary>show</summary>
+<details><summary>show</summary>vhn
 <p>
 
 ```bash
