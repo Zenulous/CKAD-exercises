@@ -30,7 +30,7 @@ kubectl describe cm config
 
 </p>
 </details>
-
+jjbbj
 ### Create and display a configmap from a file
 
 Create the file with
